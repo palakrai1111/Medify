@@ -1,6 +1,9 @@
-<div align="center">
 
-  <h3 align="center">A HealthCare Management System</h3>
+ <div align="center">
+  <h1>🏥 Medify – A HealthCare Management System</h1>
+  <p>A modern patient management and appointment scheduling system built with Next.js & Appwrite</p>
+</div>
+
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -14,6 +17,15 @@ A healthcare patient management application that allows patients to easily regis
 - TailwindCSS
 - ShadCN
 - Twilio
+## ⚙️ Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+</div>
 
 ## <a name="features">🔋 Features</a>
 
@@ -52,8 +64,9 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/palakrai1111/Medify
-cd healthcare
+git clone https://github.com/palakrai1111/Medify.git
+cd Medify
+
 ```
 
 **Installation**
