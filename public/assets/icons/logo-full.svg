@@ -1,0 +1,16 @@
+<svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="220" y2="0">
+      <stop offset="0%" stop-color="#10B981"></stop>
+      <stop offset="100%" stop-color="#06B6D4"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Wordmark -->
+  <text x="0" y="40" font-family="Poppins, Segoe UI, Arial" font-size="36" font-weight="700" fill="url(#grad1)">
+    Medify
+  </text>
+
+  <!-- Heartbeat underline -->
+  <path d="M5 50 L30 50 L38 35 L45 55 L55 40 L65 50 L215 50" stroke="url(#grad1)" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
